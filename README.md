@@ -16,7 +16,7 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Terrence-Biddix/Network-Traffic-Monitoring-and-Detection-/tree/main">Network Analysis</a>|
 | Packet Capture         |  <a href="https://github.com/Terrence-Biddix/Packet-Capture/tree/main">Packet Analysis</a>|
 | Linux Filtering      | <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Linux Log & File Search with Grep</a>|
-| Managing Users With Linux Commands                  | <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Add and Manage Users with Linux Commands</a>|
+| Managing Users With Linux Commands                  | <a href= "https://github.com/Terrence-Biddix/Managing-Users-With-Linux-Commands/tree/main">Add and Manage Users with Linux Commands</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -48,3 +48,4 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 - <a href="https://github.com/Terrence-Biddix/Network-Traffic-Monitoring-and-Detection-/tree/main">Network Analysis</a>
 - <a href="https://github.com/Terrence-Biddix/Packet-Capture/tree/main">Packet Analysis</a>
 - <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Packet Analysis</a>
+- <a href= "https://github.com/Terrence-Biddix/Managing-Users-With-Linux-Commands/tree/main">Add and Manage Users with Linux Commands</a>
