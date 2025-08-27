@@ -15,7 +15,7 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Terrence-Biddix/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Terrence-Biddix/Network-Traffic-Monitoring-and-Detection-/tree/main">Network Analysis</a>|
 | Packet Capture         |  <a href="https://github.com/Terrence-Biddix/Packet-Capture/tree/main">Packet Analysis</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Linux Filtering      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -46,4 +46,4 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 ## Projects
 - <a href="https://github.com/Terrence-Biddix/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Terrence-Biddix/Network-Traffic-Monitoring-and-Detection-/tree/main">Network Analysis</a>
-- SOC Automation Project
+- <a href="https://github.com/Terrence-Biddix/Packet-Capture/tree/main">Packet Analysis</a>
