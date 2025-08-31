@@ -17,7 +17,7 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 | Packet Capture         |  <a href="https://github.com/Terrence-Biddix/Packet-Capture/tree/main">Packet Analysis</a>|
 | Linux Filtering      | <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Linux Log & File Search with Grep</a>|
 | Managing Users With Linux Commands                  | <a href= "https://github.com/Terrence-Biddix/Managing-Users-With-Linux-Commands/tree/main">Add and Manage Users with Linux Commands</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href= "https://github.com/Terrence-Biddix/SQL-joins/tree/main">SQL Joins Investigation</a>|
 
 ## Tools
 
@@ -49,3 +49,4 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 - <a href="https://github.com/Terrence-Biddix/Packet-Capture/tree/main">Packet Analysis</a>
 - <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Linux Log & File Search with Grep</a>
 - <a href= "https://github.com/Terrence-Biddix/Managing-Users-With-Linux-Commands/tree/main">Add and Manage Users with Linux Commands</a>
+- <a href= "https://github.com/Terrence-Biddix/SQL-joins/tree/main">SQL Joins Investigation</a>
