@@ -26,7 +26,6 @@
         PS C:\> .\__remediation_WN11-CC-000315.ps1
 #>
 
-# YOUR CODE GOES HERE
 # Disable "Always install with elevated privileges"
 # STIG ID: WN11-CC-000315
 
