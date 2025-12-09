@@ -18,6 +18,8 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 | Linux Filtering      | <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Linux Log & File Search with Grep</a>|
 | Managing Users With Linux Commands                  | <a href= "https://github.com/Terrence-Biddix/Managing-Users-With-Linux-Commands/tree/main">Add and Manage Users with Linux Commands</a>|
 | SQL Joins | <a href= "https://github.com/Terrence-Biddix/SQL-joins/tree/main">SQL Joins Investigation</a>|
+| Threat Hunt | <a href= "https://github.com/Terrence-Biddix/Threat-Hunt-Report-Suspected-Intrusion/tree/main">Threat Hunt Report Suspected Intrusion</a>|
+| STIGs | <a href= "https://github.com/Terrence-Biddix/Terrence-Biddix/tree/main/STIGS">DISA STIG remediations</a>|
 
 ## Tools
 
@@ -50,3 +52,5 @@ With a degree in cybersecurity, multiple industry certifications, and a commitme
 - <a href="https://github.com/Terrence-Biddix/Linux-Filtering/tree/main">Linux Log & File Search with Grep</a>
 - <a href= "https://github.com/Terrence-Biddix/Managing-Users-With-Linux-Commands/tree/main">Add and Manage Users with Linux Commands</a>
 - <a href= "https://github.com/Terrence-Biddix/SQL-joins/tree/main">SQL Joins Investigation</a>
+- <a href= "https://github.com/Terrence-Biddix/Threat-Hunt-Report-Suspected-Intrusion/tree/main">Threat Hunt Report Suspected Intrusion</a>
+- <a href= "https://github.com/Terrence-Biddix/Terrence-Biddix/tree/main/STIGS">DISA STIG remediations</a>
